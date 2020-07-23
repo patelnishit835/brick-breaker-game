@@ -14,6 +14,21 @@ import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Graphics2D;
 
+/*
+
+WELCOME TO MY BRICK BREAKER GAME!!
+
+The given code is a complete project for a 2-Player Brick Breaker Code built completely using Core Java libraries and with the help of Mathematical Algorithms.
+
+The Project is divided into three classes viz. 
+	1. The Main Class: The Main Class consists of the driver code. It is used for initialisation of the main canvas on which the game play takes place.
+	2. The Gameplay Class: This class holds the entire game logic and takes care of the dynamic of the ball and the slider.
+	3. The MapGen Class: This class is used for the generation of the grid of the bricks and also handles the dynamics of the events when the ball hits the bricks and keeps on updating itself.
+	
+Please scan through the code for further understanding :-)
+
+*/
+
 public class Main {
 
 	
